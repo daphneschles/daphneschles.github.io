@@ -1,4 +1,4 @@
-title: Daphne
+title: daphne
 ---
 
 ## about me

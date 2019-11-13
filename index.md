@@ -8,5 +8,6 @@ I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu
 Also, [bread](./bread.html).
 
 ## find me
+[dschls AT mit DOT edu](mailto:dschles AT mit DOT edu)
 [google scholar](https://scholar.google.com/citations?user=Y47sEn8AAAAJ&hl=en)  
 [linkedin](https://www.linkedin.com/in/dschles/)

@@ -3,7 +3,10 @@ title: daphne
 ---
 
 ## about me
-I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on sub-type discovery in cardiovascular disease and interpretable ML for medicine. Our group runs a seminar on computational medicine - [check us out](https://comp-med-mit.github.io)! 
+I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. 
+
+## publications
+Schlesinger, D.E., Stultz, C.M. Deep Learning for Cardiovascular Risk Stratification. Curr Treat Options Cardio Med 22, 15 (2020). [https://doi.org/10.1007/s11936-020-00814-0](https://doi.org/10.1007/s11936-020-00814-0)
 
 ## find me
 [dschles AT mit DOT edu](mailto:dschles AT mit DOT edu)  

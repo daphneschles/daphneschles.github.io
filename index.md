@@ -16,7 +16,7 @@ DE Schlesinger, N Diamant, A Raghu, E Reinertsen, K Young, P Batra, E Pomerantse
 DE Schlesinger, CM Stultz. Deep Learning for Cardiovascular Risk Stratification. *Curr Treat Options Cardio Med* (2020).  
 [https://doi.org/10.1007/s11936-020-00814-0](https://doi.org/10.1007/s11936-020-00814-0)
 
-Q Guo, CJ Bishop, RA Meyer, DR Wilson, L Olasov, DE Schlesinger, PT Mather, JB Spicer, JH Elisseeff, JJ Green. Entanglement-Based Thermoplastic Shape Memory Polymeric Particles with Photothermal Actuation for Biomedical Applications. *ACS Applied Materials and Interfaces* (2018).
+Q Guo, CJ Bishop, RA Meyer, DR Wilson, L Olasov, DE Schlesinger, PT Mather, JB Spicer, JH Elisseeff, JJ Green. Entanglement-Based Thermoplastic Shape Memory Polymeric Particles with Photothermal Actuation for Biomedical Applications. *ACS Applied Materials and Interfaces* (2018). [https://doi.org/10.1021/acsami.8b01582](https://doi.org/10.1021/acsami.8b01582)
 
 ## find me
 [daphneschles AT gmail DOT com](mailto:daphneschles AT gmail DOT com)  

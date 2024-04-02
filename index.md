@@ -19,6 +19,6 @@ DE Schlesinger, CM Stultz. Deep Learning for Cardiovascular Risk Stratification.
 Q Guo, CJ Bishop, RA Meyer, DR Wilson, L Olasov, DE Schlesinger, PT Mather, JB Spicer, JH Elisseeff, JJ Green. Entanglement-Based Thermoplastic Shape Memory Polymeric Particles with Photothermal Actuation for Biomedical Applications. *ACS Applied Materials and Interfaces* (2018).
 
 ## find me
-[dschles AT mit DOT edu](mailto:daphneschles AT gmail DOT com)  
+[daphneschles AT gmail DOT com](mailto:daphneschles AT gmail DOT com)  
 [google scholar](https://scholar.google.com/citations?user=Y47sEn8AAAAJ&hl=en)  
 [linkedin](https://www.linkedin.com/in/dschles/)

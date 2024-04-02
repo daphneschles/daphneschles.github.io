@@ -3,7 +3,7 @@ title: daphne
 ---
 
 ## about me
-I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. You can find my CV <a href="https://nbviewer.org/github/daphneschles/daphneschles.github.io/blob/master/documents/cv_daphne_schlesinger_details.pdf" target="_blank">here</a>.
+I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. You can find my CV <a href="https://nbviewer.org/github/daphneschles/daphneschles.github.io/blob/master/documents/cv_daphne_schlesinger_detailed.pdf" target="_blank">here</a>.
 
 ## publications
 Schlesinger, D.E., et al. Artificial Intelligence for Outpatient Hemodynamic Monitoring with a Wearable ECG Monitor. *MedArxiv* (2024). [https://doi.org/10.1101/2024.04.01.24304487](https://doi.org/10.1101/2024.04.01.24304487)

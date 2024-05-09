@@ -12,3 +12,10 @@ I've created a library of images related to my research for use in presentations
 [Download PNG file](https://daphneschles.github.io/artwork_files/Anatomy.png)
 
 [Download PSD file](https://daphneschles.github.io/artwork_files/Anatomy.psd)
+
+## Radial Artery Catheter
+![Radial_Artery](/artwork_files/Radial_Artery.png)
+
+[Download PNG file](https://daphneschles.github.io/artwork_files/Radial_Artery.png)
+
+[Download PSD file](https://daphneschles.github.io/artwork_files/Radial_Artery.psd)

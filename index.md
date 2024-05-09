@@ -5,6 +5,8 @@ title: daphne
 ## about me
 I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. You can find my CV [here](https://daphneschles.github.io/documents/cv_daphne_schlesinger_detailed.pdf).
 
+* * *
+
 ## publications
 DE Schlesinger, R Alam, R Ringel, E Pomerantsev, S Devireddy, P Shah, J Garasic, CM Stultz. Artificial Intelligence for Outpatient Hemodynamic Monitoring with a Wearable ECG Monitor. *MedArxiv* (2024). [https://doi.org/10.1101/2024.04.01.24304487](https://doi.org/10.1101/2024.04.01.24304487)
 
@@ -17,6 +19,8 @@ DE Schlesinger, CM Stultz. Deep Learning for Cardiovascular Risk Stratification.
 [https://doi.org/10.1007/s11936-020-00814-0](https://doi.org/10.1007/s11936-020-00814-0)
 
 Q Guo, CJ Bishop, RA Meyer, DR Wilson, L Olasov, DE Schlesinger, PT Mather, JB Spicer, JH Elisseeff, JJ Green. Entanglement-Based Thermoplastic Shape Memory Polymeric Particles with Photothermal Actuation for Biomedical Applications. *ACS Applied Materials and Interfaces* (2018). [https://doi.org/10.1021/acsami.8b01582](https://doi.org/10.1021/acsami.8b01582)
+
+* * *
 
 ## find me
 [daphneschles AT gmail DOT com](mailto:daphneschles AT gmail DOT com)  

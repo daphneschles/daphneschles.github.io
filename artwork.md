@@ -60,7 +60,7 @@ I've created a library of icons and images related to my research for use in pre
 
 ## Heart Icon
 [Download PNG file](https://daphneschles.github.io/artwork_files/Heart_Label.png)
-![Heart_Icon](/artwork_files/Heart_label.png)
+![Heart_Icon](/artwork_files/Heart_Label.png)
 
 ## Doc Icon
 [Download PNG file](https://daphneschles.github.io/artwork_files/Doc.png)

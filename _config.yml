@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: Daphne Schlesinger
 logo: rle_headshot.jpg
 description:
+lang: en_US
+email: daphneschles@gmail.com
+url: https://daphneschlesinger.com/
+author:
+  name: Daphne Schlesinger
+  picture: rle_headshot.jpg
+github_username: daphneschles

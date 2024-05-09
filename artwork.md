@@ -1,10 +1,10 @@
 ---
 title: "artwork"
 permalink: /artwork
-rank: 1
+rank: 2
 layout: default
 ---
-# Artwork
+# artwork
 
 I've created a library of icons and images related to my research for use in presentations over the years. Feel free to use any of them with appropriate credit given. If you are interested in files with editable layers, or in commissioning artwork in this style, please feel free to contact me!
 

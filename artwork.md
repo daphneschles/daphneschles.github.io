@@ -3,4 +3,4 @@ title: "Artwork"
 permalink: /artwork
 ---
 # Artwork
-test test test
+![Anatomy][/artwork_files/Anatomy.png]

@@ -8,5 +8,7 @@ I've created a library of images related to my research for use in presentations
 
 ## Anatomy
 ![Anatomy](/artwork_files/Anatomy.png)
-[PNG file](https://daphneschles.github.io/artwork_files/Anatomy.png)
-[PSD file](https://daphneschles.github.io/artwork_files/Anatomy.psd)
+
+[Download PNG file](https://daphneschles.github.io/artwork_files/Anatomy.png)
+
+[Download PSD file](https://daphneschles.github.io/artwork_files/Anatomy.psd)

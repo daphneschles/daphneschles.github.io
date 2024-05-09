@@ -1,6 +1,8 @@
 ---
 title: "Artwork"
 permalink: /artwork
+rank: 1
+layout: default
 ---
 # Artwork
 

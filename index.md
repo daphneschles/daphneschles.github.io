@@ -3,7 +3,9 @@ title: daphne
 ---
 
 # about me
-I am a PhD candidate at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. You can find my CV [here](https://daphneschles.github.io/documents/cv_daphne_schlesinger_detailed.pdf).
+I am currenlty a machine learning scientist at [Meliora Therapeutics](https://www.melioratherapeutics.com/). I'm broadly interested in developing and applying knowledge-informed computational methods to advancing human health.
+
+I completed my PhD at MIT working with [Dr. Collin Stultz](http://imes.mit.edu/people/faculty/stultz-collin/) on developing interpretible and trustworthy models of cardiovascular disease. You can find my CV [here](https://daphneschles.github.io/documents/cv_daphne_schlesinger_detailed.pdf).
 
 * * *
 
